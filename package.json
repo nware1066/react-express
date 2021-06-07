@@ -19,6 +19,7 @@
   "homepage": "https://github.com/nware1066/react-express.git",
   "dependencies": {
     "concurrently": "^6.2.0",
+    "create-react-app": "^4.0.3",
     "express": "^4.17.1"
   },
   "devDependencies": {
